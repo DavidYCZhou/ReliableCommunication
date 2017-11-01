@@ -1,0 +1,1 @@
+java -cp ./ Sender $1 $2
